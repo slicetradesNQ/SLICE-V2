@@ -1,17 +1,1 @@
-{
-  "name": "trading-dashboard",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "14.0.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "@supabase/supabase-js": "^2.0.0",
-    "recharts": "^2.8.0"
-  }
-}
+{\n  "name": "trading-dashboard",\n  "version": "1.0.0",\n  "private": true,\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "14.0.0",\n    "react": "18.2.0",\n    "react-dom": "18.2.0",\n    "@supabase/supabase-js": "^2.0.0",\n    "recharts": "^2.8.0"\n  },\n  "devDependencies": {\n    "webpack": "^5.0.0",\n    "webpack-cli": "^5.0.0"\n  }\n}
